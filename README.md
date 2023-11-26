@@ -1,0 +1,2 @@
+# currencies
+all currencies
